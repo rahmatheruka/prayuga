@@ -1,2 +1,3 @@
 # prayuga
-Pioneer sentiwordnet Indonesian version
+Make machines understand Indonesian language.
+Just start from understand the sentiment
