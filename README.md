@@ -23,3 +23,6 @@ Ini masih awal, masih banyak yang perlu dikembangkan, diantaranya:
 Mengingat masih sangat banyak yang perlu dikembangkan, akan sangat senang jika rasanya mendapatkan bantuan ide-ide kreatif dan hasil karya dari kawan-kawan.
 
 Untuk berkontribusi langsung atau sekedar bertanya tentang komponen-komponen Prayuga bisa menghubungi [Rahmat](https://www.facebook.com/raciandro)
+
+# License
+BSD 3-Clause
