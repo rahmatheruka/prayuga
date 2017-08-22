@@ -1,3 +1,3 @@
 # prayuga
 Make machines understand Indonesian language.
-Just start from understand the sentiment
+Just start from understanding the sentiment
