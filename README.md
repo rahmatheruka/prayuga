@@ -9,7 +9,7 @@ Prayuga dikembangkan atas dasar tersebut, pada saat ini prayuga menggunakan tekn
 Untuk pengembangan masih dalam tahap melearning prayuga untuk menganalisa sentimen kalimat berbahasa indonesia.
 
 # Mari Berkontribusi!
-Ini masih awal, masih banyak yang perlu dikembangkan diantaranya:
+Ini masih awal, masih banyak yang perlu dikembangkan, diantaranya:
 1. [Metode NLP](https://github.com/rahmatheruka/prayuga/issue)
 2. [prayuga-memory](https://github.com/rahmatheruka/prayuga-memory)
 3. [prayuga-api](https://github.com/rahmatheruka/prayuga-api)
