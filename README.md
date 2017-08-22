@@ -8,22 +8,18 @@ Prayuga dikembangkan atas dasar tersebut, pada saat ini prayuga menggunakan tekn
 
 Untuk pengembangan masih dalam tahap melearning prayuga untuk menganalisa sentimen kalimat berbahasa indonesia.
 
-# Prayuga Library
-Terdapat beberapa versi bahasa pemograman yang akan dikembangkan
-1. [python](https://github.com/rahmatheruka/prayuga-lib-python)
-2. [php](https://github.com/rahmatheruka/prayuga-lib-php)
-3. [java](https://github.com/rahmatheruka/prayuga-lib-java)
-4. [javascript](https://github.com/rahmatheruka/prayuga-lib-javascript)
-5. [ruby](https://github.com/rahmatheruka/prayuga-lib-ruby)
-
 # Mari Berkontribusi!
 Ini masih awal, masih banyak yang perlu dikembangkan diantaranya:
 1. [Metode NLP](https://github.com/rahmatheruka/prayuga/issue)
 2. [prayuga-memory](https://github.com/rahmatheruka/prayuga-memory)
-3. Library:
-    - [python](https://github.com/rahmatheruka/prayuga-lib-python)
-    - [php](https://github.com/rahmatheruka/prayuga-lib-php)
-    - [java](https://github.com/rahmatheruka/prayuga-lib-java)
-    - [javascript](https://github.com/rahmatheruka/prayuga-lib-javascript)
-    - [ruby](https://github.com/rahmatheruka/prayuga-lib-ruby)
+3. [prayuga-api](https://github.com/rahmatheruka/prayuga-api)
+4. Prayuga Library:
+    - [prayuga-python](https://github.com/rahmatheruka/prayuga-lib-python)
+    - [prayuga-php](https://github.com/rahmatheruka/prayuga-lib-php)
+    - [prayuga-java](https://github.com/rahmatheruka/prayuga-lib-java)
+    - [prayuga-javascript](https://github.com/rahmatheruka/prayuga-lib-javascript)
+    - [prayuga-ruby](https://github.com/rahmatheruka/prayuga-lib-ruby)
+    
 Mengingat masih sangat banyak yang perlu dikembangkan, akan sangat senang jika rasanya mendapatkan bantuan ide-ide kreatif dan hasil karya dari kawan-kawan.
+
+Untuk berkontribusi langsung atau sekedar bertanya tentang komponen-komponen Prayuga bisa menghubungi [Rahmat](https://www.facebook.com/raciandro)
