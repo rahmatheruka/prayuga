@@ -1,2 +1,2 @@
 # prayuga
-Pioneer sentiwordnet Indonesian version
+Official for the prayuga API.
